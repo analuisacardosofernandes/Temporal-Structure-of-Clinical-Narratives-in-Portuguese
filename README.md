@@ -15,6 +15,9 @@ A detailed description of the annotation scheme developed for representing the t
 - **Preliminary MEd2Story Guidelines**
 An initial version of the annotation scheme that served as the basis for the first annotation trials.
 
+- **Text2Story Guidelines**
+The guidelines of the Text2Story annotation scheme, which served as the foundation for the development of Med2Story.
+
 - **Annotation Evaluation Files**
 Two Excel spreadsheets containing the evaluation results of annotations carried out by two independent annotators, based on a preliminary version of the MEd2Story guidelines.
 
