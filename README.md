@@ -19,7 +19,7 @@ An initial version of the annotation scheme that served as the basis for the fir
 The guidelines of the Text2Story annotation scheme, which served as the foundation for the development of Med2Story.
 
 - **Annotation Evaluation Files**
-Two Excel spreadsheets containing the evaluation results of annotations carried out by two independent annotators, based on a preliminary version of the MEd2Story guidelines.
+Two Excel spreadsheets containing the evaluation results of annotations carried out by two independent annotators, based on a preliminary version of the Med2Story guidelines.
 
 - **Synthetic Clinical Reports**
 Two synthetic clinical reports designed specifically for the annotation task. These reports were (i) used by the independent annotators during the evaluation process and (ii) employed as a source of examples discussed in the dissertation.
