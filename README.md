@@ -7,19 +7,23 @@ Faculty of Arts and Humanities, University of Porto, 2025
 
 ## Contents  
 
-The repository includes:  
+## The repository includes:
 
-- **MEd2Story Guidelines**  
-  A detailed description of the annotation scheme developed for representing the temporal structure of clinical narratives in Portuguese.  
+### Final MEd2Story Guidelines
+A detailed description of the annotation scheme developed for representing the temporal structure of clinical narratives in Portuguese.
 
-- **Annotation Evaluation Files**  
-  Two Excel spreadsheets containing the evaluation results of annotations carried out by two independent annotators, based on a preliminary version of the MEd2Story guidelines.  
+### Preliminary MEd2Story Guidelines
+An initial version of the annotation scheme that served as the basis for the first annotation trials.
 
-- **Synthetic Clinical Reports**  
-  Two synthetic clinical reports designed specifically for the annotation task. These reports were (i) used by the independent annotators during the evaluation process and (ii) employed as a source of examples discussed in the dissertation.
-  
-- **Annotation Data**
-   A document that contains both qualitative and quantitative data derived from the final annotation process.
+### Annotation Evaluation Files
+Two Excel spreadsheets containing the evaluation results of annotations carried out by two independent annotators, based on a preliminary version of the MEd2Story guidelines.
+
+### Synthetic Clinical Reports
+Two synthetic clinical reports designed specifically for the annotation task. These reports were (i) used by the independent annotators during the evaluation process and (ii) employed as a source of examples discussed in the dissertation.
+
+### Annotation Data
+A document that contains both qualitative and quantitative data derived from the final annotation process.
+
   
 ## Relevance  
 
