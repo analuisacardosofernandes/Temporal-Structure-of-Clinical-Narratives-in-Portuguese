@@ -9,7 +9,7 @@ Faculty of Arts and Humanities, University of Porto, 2025
 
 **The repository includes**:
 
-- **Final MEd2Story Guidelines**
+- **Med2Story Guidelines**
 A detailed description of the annotation scheme developed for representing the temporal structure of clinical narratives in Portuguese.
 
 - **Preliminary MEd2Story Guidelines**
